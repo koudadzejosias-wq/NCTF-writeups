@@ -1,4 +1,4 @@
-# NCTF writeups
+# Writeup NCTF
 
 Writeups des challenges NCTF résolus sur la plateforme [arena.ctf.tg](https://arena.ctf.tg).
 
@@ -114,3 +114,9 @@ Le format du flag de [`djobokou`](crypto/djobokou.md) n'a pas été confirmé : 
 | Challenge | Points | Auteur |
 |---|---:|---|
 | [alias-slip](sysadmin/alias-slip.md) | 150 | hibris, Clawd |
+
+## Droits d'auteur
+
+© 2026 KOUDADZE Kodjogan Josias. Tous droits réservés.
+
+Ces writeups sont l'œuvre de leur auteur. Toute reproduction ou republication, totale ou partielle, sans son autorisation écrite est interdite. Les challenges eux-mêmes appartiennent à leurs auteurs respectifs et à la plateforme NCTF.
